@@ -1,14 +1,20 @@
 body {
-    background-color: aquamarine;
-    padding: 10px;
+    background-color: purple;
+    padding: 40px;
 }
 
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: blueviolet;
+    color: whitesmoke;
 }
 
 p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: indigo;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+
+.bg {
+    background-image: url('iis.png');
+    height: 200px;
+    width: 200px;
 }
