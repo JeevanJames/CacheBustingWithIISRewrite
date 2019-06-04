@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheTestMvc", "CacheTestMvc\CacheTestMvc.csproj", "{8FD88FAA-3EF5-45F5-BF68-4958181C67CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD88FAA-3EF5-45F5-BF68-4958181C67CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD88FAA-3EF5-45F5-BF68-4958181C67CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD88FAA-3EF5-45F5-BF68-4958181C67CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD88FAA-3EF5-45F5-BF68-4958181C67CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804EE8BB-2576-40CF-9C39-9F4581AC9393}
+	EndGlobalSection
+EndGlobal
